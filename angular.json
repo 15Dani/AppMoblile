@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Appmobile"
+    }
+  },
+  "defaultProject": "Appmobile",
+  "cli": {
+    "analytics": false
+  }
 }
